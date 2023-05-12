@@ -1,0 +1,11 @@
+:root {
+    --cor-de-fundo:rgb(96, 0, 121);
+}
+
+body {
+background-color: rgb(169, 84, 238);
+}
+
+h1 {
+    background-color: blueviolet;
+}
